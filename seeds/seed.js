@@ -27,11 +27,11 @@ const plantSeeds = async () => {
           UserId:1
       },
       {
-          description:"Test Post",
+          content:"Test Post",
           UserId:2
       },
       {
-          description:"Hi I am new here",
+          content:"Hi I am new here",
           UserId:3
       },
     ]);
